@@ -1,0 +1,11 @@
+Instruction Semantic Analysis
+
+This program reads binary files in various formats,
+linux elf, windows PE and exe files.
+
+It can output conditional concurrent assignments which
+record the semantics of each instruction. These can be
+composed to generate the semantics of the original program.
+
+This is a literate program.
+
